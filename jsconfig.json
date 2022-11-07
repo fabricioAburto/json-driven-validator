@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@json-driven-validator/*": ["dist"]
+    }
+  }
+}
