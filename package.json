@@ -1,6 +1,6 @@
 {
   "name": "@joseaburt/json-driven-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "This is a simple project for validate everithing base on json/js rules that use yup.",
   "main": "dist/index.js",
